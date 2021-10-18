@@ -35,6 +35,14 @@
     {
       "name": "tnf",
       "link": "https://raw.githubusercontent.com/iamravigulia/formats_csv/master/tnf.csv"
+    },
+    {
+      "name": "mcqa",
+      "link": "https://raw.githubusercontent.com/iamravigulia/formats_csv/master/mcqa.csv"
+    },
+    {
+      "name": "mcqpa2",
+      "link": "https://raw.githubusercontent.com/iamravigulia/formats_csv/master/mcqpa2.csv"
     }
   ]
 }
