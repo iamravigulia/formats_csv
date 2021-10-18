@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "name": "lamas",
+      "link": "https://raw.githubusercontent.com/iamravigulia/formats_csv/master/lamas.csv"
+    },
+    {
+      "name": "mcq",
+      "link": "https://raw.githubusercontent.com/iamravigulia/formats_csv/master/mcq.csv"
+    }
+  ]
+}
