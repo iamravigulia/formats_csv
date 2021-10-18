@@ -47,6 +47,14 @@
     {
       "name": "unw",
       "link": "https://raw.githubusercontent.com/iamravigulia/formats_csv/master/unw.csv"
+    },
+    {
+      "name": "mawr",
+      "link": "https://raw.githubusercontent.com/iamravigulia/formats_csv/master/mawr.csv"
+    },
+    {
+      "name": "mawra",
+      "link": "https://raw.githubusercontent.com/iamravigulia/formats_csv/master/mawra.csv"
     }
   ]
 }
