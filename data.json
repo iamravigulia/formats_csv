@@ -5,8 +5,36 @@
       "link": "https://raw.githubusercontent.com/iamravigulia/formats_csv/master/lamas.csv"
     },
     {
+      "name": "lamaw",
+      "link": "https://raw.githubusercontent.com/iamravigulia/formats_csv/master/lamaw.csv"
+    },
+    {
       "name": "mcq",
       "link": "https://raw.githubusercontent.com/iamravigulia/formats_csv/master/mcq.csv"
+    },
+    {
+      "name": "gridtnf",
+      "link": "https://raw.githubusercontent.com/iamravigulia/formats_csv/master/gridtnf.csv"
+    },
+    {
+      "name": "mc2pq",
+      "link": "https://raw.githubusercontent.com/iamravigulia/formats_csv/master/mc2pq.csv"
+    },
+    {
+      "name": "mcqanpt",
+      "link": "https://raw.githubusercontent.com/iamravigulia/formats_csv/master/mcqanpt.csv"
+    },
+    {
+      "name": "mof",
+      "link": "https://raw.githubusercontent.com/iamravigulia/formats_csv/master/mof.csv"
+    },
+    {
+      "name": "mtpp",
+      "link": "https://raw.githubusercontent.com/iamravigulia/formats_csv/master/mtpp.csv"
+    },
+    {
+      "name": "tnf",
+      "link": "https://raw.githubusercontent.com/iamravigulia/formats_csv/master/tnf.csv"
     }
   ]
 }
