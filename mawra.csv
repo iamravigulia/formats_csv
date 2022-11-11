@@ -1,3 +1,3 @@
-#,Question,answer_1,engword_1,arrange_1,answer_2,engword_2,arrange_2,answer_3,engword_3,arrange_3,answer_4,engword_4,arrange_4,answer_5,engword_5,arrange_5,answer_6,engword_6,arrange_6,level,hint,audio
-1,title,hello,hi,1,hello,hi,2,hello,hi,3,hello,hi,4,hello,hi,5,hello,hi,6,easy,-,1
-2,title2,hi,so,2,hello,hi,3,hello,hi,4,hello,hi,5,hello,hi,6,hello,hi,1,easy,-,2
+#,Question,answer_1,engword_1,arrange_1,answer_2,engword_2,arrange_2,answer_3,engword_3,arrange_3,answer_4,engword_4,arrange_4,answer_5,engword_5,arrange_5,answer_6,engword_6,arrange_6,level,hint,audio,audio_es
+1,title,hello,hi,1,hello,hi,2,hello,hi,3,hello,hi,4,hello,hi,5,hello,hi,6,easy,-,1,-
+2,title2,hi,so,2,hello,hi,3,hello,hi,4,hello,hi,5,hello,hi,6,hello,hi,1,easy,-,2,-
