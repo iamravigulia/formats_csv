@@ -1,4 +1,4 @@
-#,Question,Option1,audio,is_correct1,eng_word1,Option2,audio,is_correct2,eng_word2,Option3,audio,is_correct3,eng_word3,Option4,audio,is_correct4,eng_word4,level,comment
-1,why/ what for,hello,1,0,-,helbo,4,1,-,nic,7,0,-,easy,1,0,-,easy,-
-2,how many,amazing,2,1,-,bca,5,0,-,fit,8,0,-,audio,2,0,-,easy,-
-3,how much,cool,3,0,-,amzing,6,0,-,good,9,1,-,plahy,3,0,-,easy,-
+#,Question,Option1,audio,audio_es,is_correct1,eng_word1,Option2,audio,audio_es,is_correct2,eng_word2,Option3,audio,audio_es,is_correct3,eng_word3,Option4,audio,audio_es,is_correct4,eng_word4,level,comment
+1,why/ what for,hello,1,-,0,-,helbo,4,-,1,-,nic,7,-,0,-,easy,1,-,0,-,easy,-
+2,how many,amazing,2,-,1,-,bca,5,-,0,-,fit,8,-,0,-,audio,2,-,0,-,easy,-
+3,how much,cool,3,-,0,-,amzing,6,-,0,-,good,9,-,1,-,plahy,3,-,0,-,easy,-
